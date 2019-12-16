@@ -3,7 +3,7 @@ title: "DSI Project 1 - ACT/SAT participation rate"
 date: 2019-09-26
 tags: [data science,eda,data visualization]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/exam.jpg"
 excerpt: "Data Science, Beginner"
 mathjax: "true"
 ---
@@ -15,11 +15,11 @@ Part of my DSI project: Pretend that you are an employee of the College Board - 
 ## Datasets
 
 Findings are based on the following dataset:
-2017 SAT data (provided)
-2018 SAT data (provided)
-2017 ACT data (provided)
-2018 ACT data (provided)
-Graduating High School student population data from (knocking.wiche.edu) that the participation rate is calculated on.
+1. 2017 SAT data (provided)
+2. 2018 SAT data (provided)
+3. 2017 ACT data (provided)
+4. 2018 ACT data (provided)
+5. Graduating High School student population data from (knocking.wiche.edu) that the participation rate is calculated on.
 
 ## Summary of key findings
 
