@@ -43,4 +43,4 @@ California is not strongholds for  SAT or ACT.
 
 **Enclosed: [Presentation slide](https://docs.google.com/presentation/d/1HBzxtvW3QjnQM3rjq98bAWOi9Hk7Gcctp3bPnqb1XM4/edit#slide=id.g644fdab0c1_0_10)**
 
-[Github code](https://github.com/andrewgohcl/DSI-ACT-SAT-DataViz)**
+**[Github code]**(https://github.com/andrewgohcl/DSI-ACT-SAT-DataViz)
