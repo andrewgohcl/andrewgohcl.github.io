@@ -1,63 +1,46 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data science]
+title: "DSI Project 1 - ACT/SAT participation rate"
+date: 2019-09-68
+tags: [data science,eda,data visualization]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Science, Messy Data"
+excerpt: "Data Science, Beginner"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Project Title: Recommendation to improve SAT participation rates in California
 
-## H2 Heading
+Part of my DSI project: Pretend that you are an employee of the College Board - the organization that administers the SAT - you are a part of a team that tracks statewide participation and recommends where money is best spent to improve SAT participation rates. Your presentation and report should be geared toward non-technical executives with the College Board and you will use the provided data and outside research to make recommendations about how the College Board might work to increase the participation rate in a state of your choice (which i choose was California).
 
-### H3 Heading
+## Datasets
 
-Here's some basic text.
+Findings are based on the following dataset:
+2017 SAT data (provided)
+2018 SAT data (provided)
+2017 ACT data (provided)
+2018 ACT data (provided)
+Graduating High School student population data from (knocking.wiche.edu) that the participation rate is calculated on.
 
-And here's some *italics*
+## Summary of key findings
 
-Here's some **bold** text.
++ SAT participation rates have increased from 2017 to 2018 while ACT participation rates have decreased in the same time period.
++ Whilst SAT participation rates have increased, we still lag behind the ACT, which have a greater number of states with 100% participation rates.
++ The general increase of SAT participation rates from 2017 to 2018 are due to:
+1. Two states with policy changes mandating taking the SAT.
+2. General creep up of participation rates across numerous of states.
 
-What about a [link](https://github.com/dataoptimal)?
+## Reasons for focusing on California
 
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
++ California has the highest number of graduating high school students across USA.
++ California has 60% participation rate.
++ California will be of highest value to us.
 
-Here's a numbered list:
-1. First
-2. Second
-3. Third
+California is not strongholds for  SAT or ACT.
 
-Python code block:
-```python
-    import numpy as np
+### Why not purely low participation rate?
++ Students study in groups.
++ Easier to build momentum on >50% than to break new ground to grow participation from a low base.
 
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
+**Enclosed: [Presentation slide](https://docs.google.com/presentation/d/1HBzxtvW3QjnQM3rjq98bAWOi9Hk7Gcctp3bPnqb1XM4/edit#slide=id.g644fdab0c1_0_10)**
 
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+[Github code](https://github.com/andrewgohcl/DSI-ACT-SAT-DataViz)**
