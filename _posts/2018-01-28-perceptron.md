@@ -1,6 +1,6 @@
 ---
 title: "DSI Project 1 - ACT/SAT participation rate"
-date: 2019-09-68
+date: 2019-09-26
 tags: [data science,eda,data visualization]
 header:
   image: "/images/perceptron/percept.jpg"
